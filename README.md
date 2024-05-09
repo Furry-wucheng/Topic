@@ -1,20 +1,16 @@
 # 说明
 
-项目为中国高校计算机大赛—网络技术挑战赛参赛作品前端（2023.06.21提交）
+项目为中国高校计算机大赛—网络技术挑战赛参赛作品的前端（2023.06.21提交）
 
-时间紧迫许多功能未完善
+时间紧迫许多功能实现粗糙，且未完善
 
 ## 技术使用
 
 项目包管理使用**NPM**版本为**v8.5.0**，**Node.js**版本为**v16.14.1**，，请尽可能保持版本一致或大版本差距不会过大
 
-项目技术使用：Vue 3 | Element Plus | Vue use | Vue Router | Pinia | Axios | Echarts
+项目使用：Vue 3 | Element Plus | Vue use | Vue Router | Pinia | Axios | Echarts
 
 项目构建使用**Vite**，在运行项目前请先安装Vite，官方文档[点击此处](https://cn.vitejs.dev/guide/)
-
-使用 NPM:
-
-`npm create vite@latest`
 
 在项目目录下
 
